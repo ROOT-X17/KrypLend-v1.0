@@ -11,7 +11,7 @@ export default function Home({ coins }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>KrypLend | Price updates</title>
+        <title>KrypLend</title>
         <meta name="description" content="crypto price updates" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
